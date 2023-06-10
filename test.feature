@@ -6,3 +6,4 @@ Scenario: Monday noon
     And the time is 12 pm
     When something happens
     Then there is no reaction
+    And pura vida
